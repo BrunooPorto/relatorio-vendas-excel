@@ -1,0 +1,301 @@
+﻿id_venda,data,produto,categoria,vendedor,regiao,quantidade,preco_unitario,valor_total
+V0001,2026-06-08,Fone Bluetooth,Eletrônicos,Ana Souza,Norte,5,227.04,1135.2
+V0002,2026-05-29,Caixa de Som,Eletrônicos,Bruno Lima,Norte,1,49.58,49.58
+V0003,2026-04-11,Smartwatch,Eletrônicos,Carla Dias,Sudeste,7,206.86,1448.02
+V0004,2026-05-29,SSD 480GB,Informática,Carla Dias,Sudeste,6,254.24,1525.44
+V0005,2026-05-12,Caixa de Som,Eletrônicos,Eduarda Reis,Nordeste,2,321.16,642.32
+V0006,2026-05-08,Caixa de Som,Eletrônicos,Ana Souza,Norte,2,827.82,1655.64
+V0007,2026-06-20,Cafeteira,Casa,Bruno Lima,Nordeste,4,606.27,2425.08
+V0008,2026-04-28,Smartwatch,Eletrônicos,Carla Dias,Sul,2,338.6,677.2
+V0009,2026-03-28,Cafeteira,Casa,Ana Souza,Norte,4,577.89,2311.56
+V0010,2026-05-22,Teclado Mecânico,Informática,Eduarda Reis,Sul,3,406.36,1219.08
+V0011,2026-05-16,Luminária LED,Casa,Diego Alves,Nordeste,4,702.99,2811.96
+V0012,2026-04-23,Smartwatch,Eletrônicos,Diego Alves,Centro-Oeste,6,200.42,1202.52
+V0013,2026-04-15,Webcam HD,Informática,Eduarda Reis,Nordeste,3,228.47,685.41
+V0014,2026-06-08,Halteres 5kg,Esporte,Eduarda Reis,Centro-Oeste,6,205.94,1235.64
+V0015,2026-06-05,Fone Bluetooth,Eletrônicos,Diego Alves,Norte,2,151.09,302.18
+V0016,2026-04-27,Caixa de Som,Eletrônicos,Eduarda Reis,Nordeste,7,516.61,3616.27
+V0017,2026-05-13,Fone Bluetooth,Eletrônicos,Ana Souza,Nordeste,5,659.09,3295.45
+V0018,2026-05-23,Corda de Pular,Esporte,Eduarda Reis,Sul,8,27.68,221.44
+V0019,2026-06-05,Carregador,Eletrônicos,Eduarda Reis,Norte,4,151.09,604.36
+V0020,2026-05-10,Carregador,Eletrônicos,Carla Dias,Sul,8,41.07,328.56
+V0021,2026-04-24,Smartwatch,Eletrônicos,Ana Souza,Norte,2,95.66,191.32
+V0022,2026-06-04,Teclado Mecânico,Informática,Carla Dias,Norte,8,806.15,6449.2
+V0023,2026-05-05,Corda de Pular,Esporte,Carla Dias,Centro-Oeste,4,613.18,2452.72
+V0024,2026-05-13,Garrafa Térmica,Esporte,Ana Souza,Norte,4,210.38,841.52
+V0025,2026-04-06,Teclado Mecânico,Informática,Ana Souza,Sul,1,83.57,83.57
+V0026,2026-05-26,Fone Bluetooth,Eletrônicos,Carla Dias,Centro-Oeste,6,83.46,500.76
+V0027,2026-04-26,Teclado Mecânico,Informática,Diego Alves,Sul,8,225.47,1803.76
+V0028,2026-05-04,Fone Bluetooth,Eletrônicos,Diego Alves,Sudeste,7,317.3,2221.1
+V0029,2026-06-12,Fone Bluetooth,Eletrônicos,Bruno Lima,Sul,7,625.78,4380.46
+V0030,2026-05-21,SSD 480GB,Informática,Diego Alves,Sul,3,373.05,1119.15
+V0031,2026-04-17,Caixa de Som,Eletrônicos,Ana Souza,Sudeste,2,66.74,133.48
+V0032,2026-05-29,Teclado Mecânico,Informática,Diego Alves,Sudeste,7,425.65,2979.55
+V0033,2026-05-23,SSD 480GB,Informática,Diego Alves,Nordeste,1,837.88,837.88
+V0034,2026-05-29,Halteres 5kg,Esporte,Ana Souza,Norte,3,181.67,545.01
+V0035,2026-04-25,Carregador,Eletrônicos,Eduarda Reis,Norte,1,66.37,66.37
+V0036,2026-06-17,Mouse Gamer,Informática,Eduarda Reis,Sudeste,2,727.36,1454.72
+V0037,2026-04-14,SSD 480GB,Informática,Bruno Lima,Norte,2,801.82,1603.64
+V0038,2026-04-14,Fone Bluetooth,Eletrônicos,Eduarda Reis,Nordeste,7,567.33,3971.31
+V0039,2026-05-06,Organizador,Casa,Bruno Lima,Nordeste,6,221.92,1331.52
+V0040,2026-04-07,Tapete Yoga,Esporte,Eduarda Reis,Sudeste,2,32.69,65.38
+V0041,2026-05-12,Smartwatch,Eletrônicos,Ana Souza,Sul,5,134.28,671.4
+V0042,2026-04-17,Cafeteira,Casa,Carla Dias,Norte,3,386.5,1159.5
+V0043,2026-06-08,Carregador,Eletrônicos,Carla Dias,Sudeste,2,799.62,1599.24
+V0044,2026-05-30,Smartwatch,Eletrônicos,Carla Dias,Sul,5,257.45,1287.25
+V0045,2026-06-19,Panela Antiaderente,Casa,Ana Souza,Centro-Oeste,5,771.9,3859.5
+V0046,2026-06-09,Luminária LED,Casa,Carla Dias,Sul,1,300.18,300.18
+V0047,2026-03-29,Halteres 5kg,Esporte,Bruno Lima,Norte,1,117.3,117.3
+V0048,2026-06-20,Carregador,Eletrônicos,Carla Dias,Nordeste,3,379.57,1138.71
+V0049,2026-04-01,Carregador,Eletrônicos,Ana Souza,Nordeste,4,587.71,2350.84
+V0050,2026-06-03,Corda de Pular,Esporte,Diego Alves,Sudeste,4,738.3,2953.2
+V0051,2026-05-25,Webcam HD,Informática,Carla Dias,Sul,7,686.84,4807.88
+V0052,2026-05-28,Caixa de Som,Eletrônicos,Bruno Lima,Centro-Oeste,1,733.34,733.34
+V0053,2026-04-02,Cafeteira,Casa,Bruno Lima,Centro-Oeste,4,208.91,835.64
+V0054,2026-05-21,Cafeteira,Casa,Carla Dias,Norte,2,822.68,1645.36
+V0055,2026-05-23,Tapete Yoga,Esporte,Bruno Lima,Norte,1,120.16,120.16
+V0056,2026-05-12,Luminária LED,Casa,Carla Dias,Centro-Oeste,2,517.17,1034.34
+V0057,2026-05-01,Caixa de Som,Eletrônicos,Ana Souza,Norte,4,235.15,940.6
+V0058,2026-04-01,Webcam HD,Informática,Carla Dias,Norte,7,82.73,579.11
+V0059,2026-04-01,Luminária LED,Casa,Diego Alves,Nordeste,5,443.38,2216.9
+V0060,2026-04-01,Tapete Yoga,Esporte,Diego Alves,Sul,3,183.27,549.81
+V0061,2026-05-30,Panela Antiaderente,Casa,Diego Alves,Norte,1,275.7,275.7
+V0062,2026-05-29,Panela Antiaderente,Casa,Eduarda Reis,Centro-Oeste,8,389.78,3118.24
+V0063,2026-04-05,Mouse Gamer,Informática,Eduarda Reis,Nordeste,5,450.25,2251.25
+V0064,2026-05-31,Smartwatch,Eletrônicos,Bruno Lima,Sudeste,5,210.33,1051.65
+V0065,2026-06-16,Smartwatch,Eletrônicos,Diego Alves,Centro-Oeste,8,529.3,4234.4
+V0066,2026-06-07,SSD 480GB,Informática,Ana Souza,Sudeste,8,354.71,2837.68
+V0067,2026-03-28,Corda de Pular,Esporte,Eduarda Reis,Centro-Oeste,3,688.39,2065.17
+V0068,2026-04-27,Smartwatch,Eletrônicos,Eduarda Reis,Norte,2,401.58,803.16
+V0069,2026-04-16,Panela Antiaderente,Casa,Diego Alves,Sul,7,710.22,4971.54
+V0070,2026-04-05,Halteres 5kg,Esporte,Carla Dias,Norte,5,645.22,3226.1
+V0071,2026-05-20,Corda de Pular,Esporte,Bruno Lima,Nordeste,5,387.89,1939.45
+V0072,2026-05-27,Cafeteira,Casa,Diego Alves,Sul,2,139.16,278.32
+V0073,2026-04-17,Mouse Gamer,Informática,Diego Alves,Centro-Oeste,7,361.27,2528.89
+V0074,2026-04-12,Smartwatch,Eletrônicos,Ana Souza,Norte,7,346.32,2424.24
+V0075,2026-05-18,Halteres 5kg,Esporte,Diego Alves,Centro-Oeste,1,802.76,802.76
+V0076,2026-04-24,SSD 480GB,Informática,Ana Souza,Centro-Oeste,4,250.17,1000.68
+V0077,2026-06-09,Panela Antiaderente,Casa,Eduarda Reis,Norte,3,718.42,2155.26
+V0078,2026-05-02,Caixa de Som,Eletrônicos,Bruno Lima,Centro-Oeste,1,94.26,94.26
+V0079,2026-05-29,Mouse Gamer,Informática,Diego Alves,Nordeste,5,337.76,1688.8
+V0080,2026-05-03,Panela Antiaderente,Casa,Carla Dias,Sudeste,5,645.41,3227.05
+V0081,2026-05-12,Garrafa Térmica,Esporte,Bruno Lima,Sudeste,1,849.92,849.92
+V0082,2026-06-23,Fone Bluetooth,Eletrônicos,Eduarda Reis,Sul,4,189.47,757.88
+V0083,2026-04-14,Teclado Mecânico,Informática,Bruno Lima,Centro-Oeste,8,577.3,4618.4
+V0084,2026-06-11,Cafeteira,Casa,Bruno Lima,Nordeste,3,524.86,1574.58
+V0085,2026-05-08,Fone Bluetooth,Eletrônicos,Diego Alves,Sul,5,500.03,2500.15
+V0086,2026-05-18,Smartwatch,Eletrônicos,Eduarda Reis,Sudeste,2,600.18,1200.36
+V0087,2026-06-17,Carregador,Eletrônicos,Eduarda Reis,Nordeste,7,570.76,3995.32
+V0088,2026-05-10,Caixa de Som,Eletrônicos,Diego Alves,Sul,8,112.07,896.56
+V0089,2026-04-18,Corda de Pular,Esporte,Diego Alves,Centro-Oeste,5,533.13,2665.65
+V0090,2026-06-14,Tapete Yoga,Esporte,Carla Dias,Centro-Oeste,6,727.66,4365.96
+V0091,2026-04-23,SSD 480GB,Informática,Carla Dias,Sul,7,302.53,2117.71
+V0092,2026-05-13,Corda de Pular,Esporte,Carla Dias,Norte,6,683.21,4099.26
+V0093,2026-05-04,Luminária LED,Casa,Diego Alves,Norte,4,95.63,382.52
+V0094,2026-06-23,SSD 480GB,Informática,Ana Souza,Nordeste,8,394.74,3157.92
+V0095,2026-04-12,SSD 480GB,Informática,Carla Dias,Centro-Oeste,4,277.62,1110.48
+V0096,2026-04-28,Panela Antiaderente,Casa,Carla Dias,Nordeste,6,315.24,1891.44
+V0097,2026-05-16,Organizador,Casa,Ana Souza,Norte,2,620.06,1240.12
+V0098,2026-05-21,Teclado Mecânico,Informática,Eduarda Reis,Norte,4,634.35,2537.4
+V0099,2026-05-10,Luminária LED,Casa,Bruno Lima,Nordeste,4,269.4,1077.6
+V0100,2026-06-19,Smartwatch,Eletrônicos,Eduarda Reis,Nordeste,5,62.55,312.75
+V0101,2026-04-13,SSD 480GB,Informática,Carla Dias,Centro-Oeste,2,744.99,1489.98
+V0102,2026-06-19,Halteres 5kg,Esporte,Carla Dias,Centro-Oeste,6,177.1,1062.6
+V0103,2026-04-13,Fone Bluetooth,Eletrônicos,Ana Souza,Sul,7,430.69,3014.83
+V0104,2026-06-10,Webcam HD,Informática,Eduarda Reis,Centro-Oeste,2,844.98,1689.96
+V0105,2026-05-18,SSD 480GB,Informática,Eduarda Reis,Centro-Oeste,8,774.52,6196.16
+V0106,2026-05-30,Luminária LED,Casa,Bruno Lima,Nordeste,2,806.76,1613.52
+V0107,2026-06-16,Smartwatch,Eletrônicos,Bruno Lima,Sudeste,4,168.4,673.6
+V0108,2026-05-27,Halteres 5kg,Esporte,Carla Dias,Nordeste,8,265.29,2122.32
+V0109,2026-04-06,Garrafa Térmica,Esporte,Eduarda Reis,Sul,4,787.23,3148.92
+V0110,2026-05-22,Garrafa Térmica,Esporte,Bruno Lima,Sudeste,4,559.3,2237.2
+V0111,2026-04-14,Smartwatch,Eletrônicos,Carla Dias,Centro-Oeste,5,515.91,2579.55
+V0112,2026-05-22,Caixa de Som,Eletrônicos,Eduarda Reis,Norte,5,602.28,3011.4
+V0113,2026-05-01,Halteres 5kg,Esporte,Carla Dias,Norte,2,518.38,1036.76
+V0114,2026-03-31,Luminária LED,Casa,Eduarda Reis,Norte,2,213.86,427.72
+V0115,2026-06-03,Carregador,Eletrônicos,Diego Alves,Norte,1,654.56,654.56
+V0116,2026-05-01,Tapete Yoga,Esporte,Diego Alves,Sudeste,3,847.48,2542.44
+V0117,2026-04-01,Tapete Yoga,Esporte,Ana Souza,Sul,7,299.98,2099.86
+V0118,2026-05-05,Panela Antiaderente,Casa,Eduarda Reis,Sudeste,8,262.78,2102.24
+V0119,2026-06-11,Garrafa Térmica,Esporte,Diego Alves,Norte,6,233.23,1399.38
+V0120,2026-04-20,Caixa de Som,Eletrônicos,Carla Dias,Norte,7,69.72,488.04
+V0121,2026-04-16,Halteres 5kg,Esporte,Bruno Lima,Nordeste,1,192.94,192.94
+V0122,2026-04-06,Halteres 5kg,Esporte,Eduarda Reis,Sul,2,48.82,97.64
+V0123,2026-06-14,Webcam HD,Informática,Bruno Lima,Sudeste,1,480.61,480.61
+V0124,2026-05-19,Garrafa Térmica,Esporte,Eduarda Reis,Nordeste,3,436.16,1308.48
+V0125,2026-04-16,Halteres 5kg,Esporte,Bruno Lima,Centro-Oeste,8,226.08,1808.64
+V0126,2026-05-03,Teclado Mecânico,Informática,Carla Dias,Norte,2,252.9,505.8
+V0127,2026-04-11,Luminária LED,Casa,Eduarda Reis,Centro-Oeste,5,623.99,3119.95
+V0128,2026-04-16,SSD 480GB,Informática,Eduarda Reis,Centro-Oeste,8,309.73,2477.84
+V0129,2026-05-26,Tapete Yoga,Esporte,Eduarda Reis,Centro-Oeste,4,834.14,3336.56
+V0130,2026-04-26,SSD 480GB,Informática,Diego Alves,Centro-Oeste,1,287.5,287.5
+V0131,2026-04-11,SSD 480GB,Informática,Carla Dias,Sudeste,1,129.15,129.15
+V0132,2026-06-07,Garrafa Térmica,Esporte,Diego Alves,Sul,8,37.66,301.28
+V0133,2026-03-29,Caixa de Som,Eletrônicos,Diego Alves,Sudeste,5,304.31,1521.55
+V0134,2026-04-24,Panela Antiaderente,Casa,Eduarda Reis,Sudeste,6,542.11,3252.66
+V0135,2026-06-14,Smartwatch,Eletrônicos,Diego Alves,Sudeste,5,847.88,4239.4
+V0136,2026-06-22,Caixa de Som,Eletrônicos,Ana Souza,Nordeste,3,597.55,1792.65
+V0137,2026-06-07,Carregador,Eletrônicos,Bruno Lima,Norte,6,334.24,2005.44
+V0138,2026-04-08,Corda de Pular,Esporte,Diego Alves,Norte,3,169.43,508.29
+V0139,2026-04-05,SSD 480GB,Informática,Carla Dias,Centro-Oeste,3,216.56,649.68
+V0140,2026-03-31,Luminária LED,Casa,Eduarda Reis,Sul,8,768.5,6148.0
+V0141,2026-05-18,Caixa de Som,Eletrônicos,Diego Alves,Nordeste,6,839.81,5038.86
+V0142,2026-04-25,Tapete Yoga,Esporte,Ana Souza,Sul,4,849.48,3397.92
+V0143,2026-05-19,Tapete Yoga,Esporte,Ana Souza,Centro-Oeste,5,843.97,4219.85
+V0144,2026-04-23,Luminária LED,Casa,Carla Dias,Sul,1,776.26,776.26
+V0145,2026-03-31,Organizador,Casa,Bruno Lima,Sudeste,4,537.24,2148.96
+V0146,2026-05-10,Carregador,Eletrônicos,Bruno Lima,Sudeste,8,52.53,420.24
+V0147,2026-06-09,Cafeteira,Casa,Eduarda Reis,Nordeste,7,169.9,1189.3
+V0148,2026-04-25,Organizador,Casa,Carla Dias,Nordeste,5,779.09,3895.45
+V0149,2026-05-28,Caixa de Som,Eletrônicos,Diego Alves,Norte,2,141.12,282.24
+V0150,2026-04-18,Luminária LED,Casa,Ana Souza,Centro-Oeste,7,36.48,255.36
+V0151,2026-05-09,Cafeteira,Casa,Ana Souza,Sul,7,703.49,4924.43
+V0152,2026-05-28,Garrafa Térmica,Esporte,Ana Souza,Centro-Oeste,6,780.09,4680.54
+V0153,2026-06-21,Panela Antiaderente,Casa,Carla Dias,Centro-Oeste,2,140.32,280.64
+V0154,2026-06-08,Fone Bluetooth,Eletrônicos,Diego Alves,Centro-Oeste,4,756.99,3027.96
+V0155,2026-04-03,Panela Antiaderente,Casa,Ana Souza,Centro-Oeste,3,755.47,2266.41
+V0156,2026-05-29,Tapete Yoga,Esporte,Diego Alves,Centro-Oeste,1,594.48,594.48
+V0157,2026-05-09,Webcam HD,Informática,Eduarda Reis,Nordeste,2,834.27,1668.54
+V0158,2026-06-10,Caixa de Som,Eletrônicos,Diego Alves,Sudeste,5,181.59,907.95
+V0159,2026-05-25,Mouse Gamer,Informática,Bruno Lima,Norte,1,674.11,674.11
+V0160,2026-05-27,Mouse Gamer,Informática,Carla Dias,Sul,4,508.77,2035.08
+V0161,2026-04-17,Carregador,Eletrônicos,Carla Dias,Sul,3,839.71,2519.13
+V0162,2026-05-26,Fone Bluetooth,Eletrônicos,Eduarda Reis,Nordeste,3,37.26,111.78
+V0163,2026-05-03,Smartwatch,Eletrônicos,Eduarda Reis,Sudeste,5,68.23,341.15
+V0164,2026-04-21,Caixa de Som,Eletrônicos,Eduarda Reis,Sudeste,8,666.86,5334.88
+V0165,2026-04-02,Corda de Pular,Esporte,Eduarda Reis,Nordeste,1,624.98,624.98
+V0166,2026-05-05,Garrafa Térmica,Esporte,Diego Alves,Sudeste,1,848.83,848.83
+V0167,2026-05-15,Halteres 5kg,Esporte,Eduarda Reis,Sul,2,766.9,1533.8
+V0168,2026-04-12,Smartwatch,Eletrônicos,Eduarda Reis,Nordeste,5,540.06,2700.3
+V0169,2026-05-01,Tapete Yoga,Esporte,Ana Souza,Sudeste,8,442.08,3536.64
+V0170,2026-05-04,SSD 480GB,Informática,Carla Dias,Centro-Oeste,8,757.68,6061.44
+V0171,2026-05-16,Halteres 5kg,Esporte,Carla Dias,Nordeste,2,282.85,565.7
+V0172,2026-06-15,SSD 480GB,Informática,Ana Souza,Centro-Oeste,2,100.26,200.52
+V0173,2026-04-11,Carregador,Eletrônicos,Eduarda Reis,Norte,3,484.01,1452.03
+V0174,2026-04-01,Luminária LED,Casa,Diego Alves,Sudeste,7,316.72,2217.04
+V0175,2026-04-22,Cafeteira,Casa,Bruno Lima,Sul,6,110.47,662.82
+V0176,2026-04-15,Corda de Pular,Esporte,Carla Dias,Sudeste,2,313.84,627.68
+V0177,2026-04-07,Organizador,Casa,Eduarda Reis,Norte,7,722.25,5055.75
+V0178,2026-03-28,Carregador,Eletrônicos,Carla Dias,Nordeste,1,173.84,173.84
+V0179,2026-04-14,Luminária LED,Casa,Diego Alves,Sudeste,3,742.64,2227.92
+V0180,2026-05-29,Mouse Gamer,Informática,Diego Alves,Centro-Oeste,2,640.54,1281.08
+V0181,2026-05-15,Tapete Yoga,Esporte,Eduarda Reis,Norte,3,330.29,990.87
+V0182,2026-04-07,Fone Bluetooth,Eletrônicos,Ana Souza,Sudeste,3,154.86,464.58
+V0183,2026-04-30,Panela Antiaderente,Casa,Diego Alves,Nordeste,7,425.67,2979.69
+V0184,2026-05-20,Mouse Gamer,Informática,Eduarda Reis,Centro-Oeste,6,379.68,2278.08
+V0185,2026-04-10,Luminária LED,Casa,Ana Souza,Sudeste,4,351.09,1404.36
+V0186,2026-05-24,Webcam HD,Informática,Carla Dias,Nordeste,4,658.06,2632.24
+V0187,2026-06-03,Fone Bluetooth,Eletrônicos,Bruno Lima,Centro-Oeste,8,641.29,5130.32
+V0188,2026-06-20,Webcam HD,Informática,Diego Alves,Sudeste,2,352.58,705.16
+V0189,2026-04-13,Garrafa Térmica,Esporte,Diego Alves,Centro-Oeste,6,500.0,3000.0
+V0190,2026-05-15,Luminária LED,Casa,Bruno Lima,Norte,7,42.21,295.47
+V0191,2026-06-12,Tapete Yoga,Esporte,Bruno Lima,Centro-Oeste,2,385.29,770.58
+V0192,2026-05-13,Garrafa Térmica,Esporte,Bruno Lima,Nordeste,7,743.18,5202.26
+V0193,2026-06-01,Mouse Gamer,Informática,Carla Dias,Nordeste,2,462.75,925.5
+V0194,2026-05-31,Teclado Mecânico,Informática,Bruno Lima,Norte,2,145.82,291.64
+V0195,2026-04-06,Mouse Gamer,Informática,Diego Alves,Centro-Oeste,3,809.82,2429.46
+V0196,2026-06-17,Tapete Yoga,Esporte,Diego Alves,Centro-Oeste,6,149.54,897.24
+V0197,2026-06-16,Cafeteira,Casa,Carla Dias,Centro-Oeste,1,315.35,315.35
+V0198,2026-05-20,Garrafa Térmica,Esporte,Ana Souza,Sudeste,1,329.21,329.21
+V0199,2026-04-13,Halteres 5kg,Esporte,Bruno Lima,Nordeste,1,396.03,396.03
+V0200,2026-05-13,Corda de Pular,Esporte,Ana Souza,Norte,1,396.68,396.68
+V0201,2026-04-30,Mouse Gamer,Informática,Eduarda Reis,Norte,4,608.79,2435.16
+V0202,2026-05-07,Webcam HD,Informática,Diego Alves,Nordeste,6,782.3,4693.8
+V0203,2026-04-15,Carregador,Eletrônicos,Diego Alves,Nordeste,2,296.99,593.98
+V0204,2026-04-02,Organizador,Casa,Bruno Lima,Nordeste,6,92.24,553.44
+V0205,2026-06-15,Panela Antiaderente,Casa,Carla Dias,Norte,3,515.91,1547.73
+V0206,2026-03-30,Tapete Yoga,Esporte,Eduarda Reis,Sudeste,3,577.85,1733.55
+V0207,2026-06-02,Tapete Yoga,Esporte,Bruno Lima,Nordeste,1,324.14,324.14
+V0208,2026-06-06,Corda de Pular,Esporte,Ana Souza,Nordeste,4,849.98,3399.92
+V0209,2026-04-07,Fone Bluetooth,Eletrônicos,Bruno Lima,Norte,6,748.02,4488.12
+V0210,2026-03-29,Corda de Pular,Esporte,Eduarda Reis,Sul,3,174.2,522.6
+V0211,2026-05-26,Garrafa Térmica,Esporte,Diego Alves,Norte,7,325.55,2278.85
+V0212,2026-05-17,Panela Antiaderente,Casa,Diego Alves,Sul,4,465.56,1862.24
+V0213,2026-05-08,Panela Antiaderente,Casa,Eduarda Reis,Norte,8,659.79,5278.32
+V0214,2026-06-08,Corda de Pular,Esporte,Carla Dias,Sudeste,4,686.04,2744.16
+V0215,2026-04-20,Tapete Yoga,Esporte,Ana Souza,Nordeste,2,611.91,1223.82
+V0216,2026-04-21,Smartwatch,Eletrônicos,Bruno Lima,Centro-Oeste,5,395.69,1978.45
+V0217,2026-06-22,Smartwatch,Eletrônicos,Diego Alves,Sudeste,8,754.82,6038.56
+V0218,2026-06-15,Tapete Yoga,Esporte,Carla Dias,Sul,4,343.59,1374.36
+V0219,2026-04-03,Carregador,Eletrônicos,Carla Dias,Sul,2,717.32,1434.64
+V0220,2026-04-26,Mouse Gamer,Informática,Bruno Lima,Centro-Oeste,5,781.85,3909.25
+V0221,2026-05-29,Garrafa Térmica,Esporte,Bruno Lima,Norte,2,40.68,81.36
+V0222,2026-06-10,Garrafa Térmica,Esporte,Ana Souza,Sul,5,221.05,1105.25
+V0223,2026-04-23,Halteres 5kg,Esporte,Eduarda Reis,Norte,2,116.46,232.92
+V0224,2026-06-25,Smartwatch,Eletrônicos,Eduarda Reis,Nordeste,3,265.3,795.9
+V0225,2026-06-15,SSD 480GB,Informática,Eduarda Reis,Nordeste,3,573.11,1719.33
+V0226,2026-06-20,Fone Bluetooth,Eletrônicos,Diego Alves,Nordeste,7,745.5,5218.5
+V0227,2026-05-12,Luminária LED,Casa,Bruno Lima,Sudeste,6,675.53,4053.18
+V0228,2026-05-13,Organizador,Casa,Bruno Lima,Centro-Oeste,1,315.65,315.65
+V0229,2026-04-28,Corda de Pular,Esporte,Ana Souza,Nordeste,3,77.06,231.18
+V0230,2026-05-16,Mouse Gamer,Informática,Carla Dias,Norte,4,755.78,3023.12
+V0231,2026-04-04,Halteres 5kg,Esporte,Bruno Lima,Nordeste,5,55.21,276.05
+V0232,2026-05-09,Luminária LED,Casa,Diego Alves,Centro-Oeste,6,250.4,1502.4
+V0233,2026-04-23,Halteres 5kg,Esporte,Diego Alves,Nordeste,6,828.32,4969.92
+V0234,2026-04-09,Luminária LED,Casa,Bruno Lima,Norte,7,90.11,630.77
+V0235,2026-04-02,Cafeteira,Casa,Carla Dias,Nordeste,2,91.06,182.12
+V0236,2026-05-12,Halteres 5kg,Esporte,Diego Alves,Sudeste,3,594.06,1782.18
+V0237,2026-06-18,Panela Antiaderente,Casa,Ana Souza,Centro-Oeste,5,552.56,2762.8
+V0238,2026-04-09,Organizador,Casa,Diego Alves,Sudeste,1,142.79,142.79
+V0239,2026-05-10,Mouse Gamer,Informática,Carla Dias,Centro-Oeste,4,667.28,2669.12
+V0240,2026-05-09,Smartwatch,Eletrônicos,Diego Alves,Sudeste,8,807.78,6462.24
+V0241,2026-05-21,Webcam HD,Informática,Bruno Lima,Sudeste,7,284.37,1990.59
+V0242,2026-04-15,Smartwatch,Eletrônicos,Ana Souza,Nordeste,8,452.14,3617.12
+V0243,2026-05-20,Panela Antiaderente,Casa,Diego Alves,Sul,4,847.0,3388.0
+V0244,2026-04-30,Smartwatch,Eletrônicos,Ana Souza,Nordeste,2,397.94,795.88
+V0245,2026-06-05,Luminária LED,Casa,Bruno Lima,Nordeste,5,760.35,3801.75
+V0246,2026-05-26,Mouse Gamer,Informática,Diego Alves,Sudeste,4,678.45,2713.8
+V0247,2026-04-16,Cafeteira,Casa,Bruno Lima,Norte,8,688.02,5504.16
+V0248,2026-04-25,Fone Bluetooth,Eletrônicos,Eduarda Reis,Centro-Oeste,5,353.48,1767.4
+V0249,2026-04-04,Garrafa Térmica,Esporte,Ana Souza,Centro-Oeste,3,827.21,2481.63
+V0250,2026-04-16,Tapete Yoga,Esporte,Eduarda Reis,Sul,3,749.32,2247.96
+V0251,2026-04-20,SSD 480GB,Informática,Bruno Lima,Nordeste,1,710.9,710.9
+V0252,2026-05-28,Teclado Mecânico,Informática,Carla Dias,Norte,6,796.16,4776.96
+V0253,2026-04-16,Luminária LED,Casa,Carla Dias,Sul,5,186.95,934.75
+V0254,2026-04-12,Luminária LED,Casa,Bruno Lima,Sul,3,513.24,1539.72
+V0255,2026-04-04,Luminária LED,Casa,Eduarda Reis,Nordeste,1,92.01,92.01
+V0256,2026-04-06,SSD 480GB,Informática,Eduarda Reis,Nordeste,1,435.88,435.88
+V0257,2026-03-30,Panela Antiaderente,Casa,Diego Alves,Nordeste,4,688.87,2755.48
+V0258,2026-05-03,Garrafa Térmica,Esporte,Diego Alves,Centro-Oeste,1,155.42,155.42
+V0259,2026-05-16,Webcam HD,Informática,Carla Dias,Centro-Oeste,3,282.88,848.64
+V0260,2026-04-27,Webcam HD,Informática,Ana Souza,Nordeste,2,288.27,576.54
+V0261,2026-05-19,Corda de Pular,Esporte,Diego Alves,Norte,3,104.87,314.61
+V0262,2026-04-13,Corda de Pular,Esporte,Carla Dias,Sul,3,696.12,2088.36
+V0263,2026-05-17,SSD 480GB,Informática,Diego Alves,Sudeste,8,436.48,3491.84
+V0264,2026-05-29,Caixa de Som,Eletrônicos,Eduarda Reis,Nordeste,8,822.52,6580.16
+V0265,2026-04-03,Fone Bluetooth,Eletrônicos,Diego Alves,Nordeste,5,433.29,2166.45
+V0266,2026-05-23,Fone Bluetooth,Eletrônicos,Carla Dias,Centro-Oeste,7,135.5,948.5
+V0267,2026-04-15,Luminária LED,Casa,Bruno Lima,Nordeste,7,67.21,470.47
+V0268,2026-04-16,Luminária LED,Casa,Carla Dias,Norte,7,441.01,3087.07
+V0269,2026-05-13,Smartwatch,Eletrônicos,Eduarda Reis,Nordeste,2,349.97,699.94
+V0270,2026-06-20,Teclado Mecânico,Informática,Ana Souza,Sul,7,437.56,3062.92
+V0271,2026-04-21,Panela Antiaderente,Casa,Bruno Lima,Nordeste,8,147.88,1183.04
+V0272,2026-05-18,Organizador,Casa,Eduarda Reis,Nordeste,7,842.26,5895.82
+V0273,2026-05-09,Tapete Yoga,Esporte,Carla Dias,Sudeste,8,697.99,5583.92
+V0274,2026-05-23,Tapete Yoga,Esporte,Eduarda Reis,Norte,1,517.45,517.45
+V0275,2026-04-06,Mouse Gamer,Informática,Eduarda Reis,Centro-Oeste,8,165.67,1325.36
+V0276,2026-03-28,Teclado Mecânico,Informática,Ana Souza,Sul,1,497.37,497.37
+V0277,2026-05-04,Caixa de Som,Eletrônicos,Bruno Lima,Centro-Oeste,6,370.49,2222.94
+V0278,2026-04-15,Garrafa Térmica,Esporte,Carla Dias,Centro-Oeste,3,452.91,1358.73
+V0279,2026-04-18,Tapete Yoga,Esporte,Carla Dias,Norte,3,404.22,1212.66
+V0280,2026-05-25,Cafeteira,Casa,Carla Dias,Norte,8,183.62,1468.96
+V0281,2026-05-30,Organizador,Casa,Diego Alves,Nordeste,5,661.22,3306.1
+V0282,2026-04-13,Tapete Yoga,Esporte,Eduarda Reis,Centro-Oeste,5,262.43,1312.15
+V0283,2026-05-20,Tapete Yoga,Esporte,Ana Souza,Nordeste,3,264.62,793.86
+V0284,2026-04-18,Tapete Yoga,Esporte,Carla Dias,Norte,8,201.54,1612.32
+V0285,2026-04-11,Organizador,Casa,Bruno Lima,Sul,2,532.93,1065.86
+V0286,2026-05-04,Smartwatch,Eletrônicos,Carla Dias,Centro-Oeste,4,68.31,273.24
+V0287,2026-06-05,Smartwatch,Eletrônicos,Diego Alves,Centro-Oeste,1,820.73,820.73
+V0288,2026-04-04,Corda de Pular,Esporte,Ana Souza,Sudeste,5,289.96,1449.8
+V0289,2026-06-03,Mouse Gamer,Informática,Ana Souza,Centro-Oeste,3,369.76,1109.28
+V0290,2026-06-24,Corda de Pular,Esporte,Carla Dias,Norte,5,748.31,3741.55
+V0291,2026-04-04,Carregador,Eletrônicos,Eduarda Reis,Norte,5,399.84,1999.2
+V0292,2026-06-11,Corda de Pular,Esporte,Carla Dias,Sul,8,250.09,2000.72
+V0293,2026-05-13,Tapete Yoga,Esporte,Carla Dias,Norte,3,36.62,109.86
+V0294,2026-04-21,Teclado Mecânico,Informática,Carla Dias,Sudeste,7,707.27,4950.89
+V0295,2026-04-25,Garrafa Térmica,Esporte,Carla Dias,Sul,3,834.89,2504.67
+V0296,2026-05-22,Carregador,Eletrônicos,Carla Dias,Nordeste,7,219.31,1535.17
+V0297,2026-06-18,Carregador,Eletrônicos,Ana Souza,Centro-Oeste,6,596.53,3579.18
+V0298,2026-05-17,Organizador,Casa,Ana Souza,Nordeste,7,591.01,4137.07
+V0299,2026-04-25,Organizador,Casa,Bruno Lima,Centro-Oeste,4,814.82,3259.28
+V0300,2026-04-01,Panela Antiaderente,Casa,Bruno Lima,Sul,8,649.81,5198.48

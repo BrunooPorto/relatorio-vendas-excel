@@ -1,0 +1,15 @@
+# Arquivos gerados pelo script
+relatorio_vendas.xlsx
+
+# Arquivos temporarios de bloqueio do Excel
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
